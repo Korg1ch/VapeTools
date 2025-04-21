@@ -30,14 +30,16 @@
 
 ## Скриншоты
 
-![Главный экран](screenshots/Home.png)
-![Мои рецепты](screenshots/History.png)
-![Настройки](screenshots/Settings.png)
+<p align="center">
+  <img src="screenshots/Home.png" width="250" alt="Главный экран">
+  <img src="screenshots/History.png" width="250" alt="Мои рецепты">
+  <img src="screenshots/Settings.png" width="250" alt="Настройки">
+</p>
 
 ## Установка
 
 ### Скачать приложение
-Вы можете скачать готовое приложение из раздела [Releases](https://github.com/korg1ch/VapeTools/releases) на GitHub или [Google Play](https://play.google.com/store/apps/details?id=ru.kchdev.vapetoolbox).
+Вы можете скачать готовое приложение из раздела [Releases](https://github.com/korg1ch/VapeTools/releases) на GitHub
 
 ### Сборка из исходников
 

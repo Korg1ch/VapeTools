@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    # Игнорируем предупреждения о неиспользуемых импортах
+    unused_import: warning
+    
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+
+linter:
+  rules:
+    - avoid_print
+    - prefer_single_quotes
+    - require_trailing_commas
+    - sort_child_properties_last
+    - unnecessary_brace_in_string_interps
+    - prefer_const_constructors
+    - prefer_const_declarations

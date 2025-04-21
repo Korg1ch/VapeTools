@@ -1,0 +1,19 @@
+# Владельцы кода для VapeTools
+# Подробнее: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# По умолчанию владелец всех файлов
+*       @korg1ch
+
+# Конфигурационные файлы
+*.yaml  @korg1ch
+*.yml   @korg1ch
+
+# Документация
+*.md    @korg1ch
+
+# Исходный код Flutter
+lib/    @korg1ch
+test/   @korg1ch
+
+# Внешние зависимости
+pubspec.* @korg1ch

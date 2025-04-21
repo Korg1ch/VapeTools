@@ -1,0 +1,52 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+*.log
+pubspec.lock
+.vscode/
+
+# Android specific
+**/android/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.*
+**/android/key.properties
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+
+# iOS specific
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/.symlinks/
+**/ios/Pods/
+
+# Coverage reports
+coverage/
+*.lcov
+.test_coverage.dart
+
+# Символьные ссылки
+/android/app/src/main/jniLibs/
+
+# Временные файлы сборки
+temp/

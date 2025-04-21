@@ -1,5 +1,5 @@
 name: vape
-description: "Vape Tool - калькулятор для вейперов"
+description: "Vape Tool - калькулятор для вейперов с функциями расчета жидкостей, сохранения рецептов и удобным интерфейсом"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -28,3 +28,15 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icon/
+
+# Информация о разработчике
+authors:
+  - Korg1ch <github.com/korg1ch>
+
+# Информация о репозитории
+repository: https://github.com/korg1ch/VapeTools
+homepage: https://github.com/korg1ch/VapeTools
+issue_tracker: https://github.com/korg1ch/VapeTools/issues
+
+# Лицензия
+license: MIT

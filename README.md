@@ -30,10 +30,9 @@
 
 ## Скриншоты
 
-![Главный экран](screenshots/main_screen.png)
-![Расчет жидкости](screenshots/calculator.png)
-![Мои рецепты](screenshots/recipes.png)
-![Настройки](screenshots/settings.png)
+![Главный экран](screenshots/Home.png)
+![Мои рецепты](screenshots/History.png)
+![Настройки](screenshots/Settings.png)
 
 ## Установка
 
